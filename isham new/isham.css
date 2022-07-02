@@ -1,0 +1,60 @@
+
+.bio{
+    background-color:darkmagenta ;
+    border: 2px;
+    height:195px;
+    width: 295px;
+    position: absolute;
+}
+.bio:hover{
+    background-color: darkgoldenrod ;
+}
+.photos{
+    background-color: blue;
+    border: 2px;
+    height: 195px;
+    width: 295px;
+    position: absolute;
+    left: 600px;
+}
+.photos:hover{
+    background-color: aquamarine;
+    transition: 1.5s;
+}
+.educationhistory{
+    background-color: lightblue;
+    border: 2px;
+    height: 200px;
+    width: 300px;
+    position:absolute;
+    left: 300px;
+    top:200px; 
+}
+.educationhistory:hover{
+    background-color: fuchsia;
+    transition: 1.5s;
+}
+.hobbies{
+    background-color: lightblue;
+    border: 2px;
+    height: 200px;
+    width: 300px;;
+    position:absolute;
+    top: 400px;
+}
+.hobbies:hover{
+    background-color: chartreuse;
+}
+.contact{
+    background-color: darksalmon ;
+     border: 2px;
+     height: 200px;
+     width: 300px;
+    position:absolute;
+    left:600px;
+    top: 400px;;
+}
+.contact:hover{
+    background-color: darkorange;
+    transition: 1.5s;
+}
